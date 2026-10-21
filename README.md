@@ -85,6 +85,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Evernote](https://evernote.com/)
 - [Paperwork](https://github.com/paperwork)
 - [OpenNote](https://github.com/FoxUSA/OpenNote)
+- [Koru](https://github.com/koruworks/mono)
 
 ### [Facebook](https://facebook.com)
 - [Mastodon](https://github.com/tootsuite/mastodon)
